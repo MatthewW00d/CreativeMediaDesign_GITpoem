@@ -1,3 +1,11 @@
 Github help us collaborate 
-our version control we can automate!
+our version control we can automate
+
+by using a social interface
+The 'final version' is impossible to misplace
+
 It's usefulness I cannot overstate
+GIT and Github are really great!
+
+It also acts as a handy showcase
+For our clean and well written codebase
